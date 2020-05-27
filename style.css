@@ -2,3 +2,16 @@
     background-color: darkslategrey;
     color: white;
 }
+
+.thePhoto{
+    background-image: url(/images/main.png);
+    background-size: cover;
+}
+
+.overlay{
+    background-color: rgba(0,0,0,0.4);
+    height:100%;
+    width: 100%;
+    position:absolute;
+}
+
